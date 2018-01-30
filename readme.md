@@ -3,6 +3,17 @@
 A command line interface used to track to do items in a software project.
 Use the cli to create todo items, list todo items, mark a todo item as complete, and remove  todo item
 
+Installation
+npm i todo-cli-andmassa -g
+
+Usage
+mkdir my-project
+cd my-project
+todo add read a book
+todo add takea  nap
+todo add run 5 miles
+todos
+
 ## Commands
 
 Add a todo-cli item
